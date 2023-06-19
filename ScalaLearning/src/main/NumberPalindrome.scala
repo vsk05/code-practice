@@ -2,7 +2,7 @@ package main
 
 class NumberPalindrome(givenNumber: Int) {
 
-
+  // Given input number
   var temp = givenNumber
   var rev = 0
   var rem = 0
